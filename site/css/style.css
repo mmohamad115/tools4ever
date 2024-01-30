@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    margin-top: 5%;
+}
+table, th, td{
+    border: 2px solid black;
+}
+.tabel{
+    /* padding-left: 33%; */
+    align-items: center;
+}
+body{
+    background-color: goldenrod;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+label{
+    width: 180px;
+    display: inline-block;
+}
+.form-groep{
+    margin: 10px 0px;
+}
